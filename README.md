@@ -35,6 +35,9 @@ The main contributions of the paper are:
 - We evaluate the effectiveness of augmenting text style transfer with SKG via prompting.
 - We analyze the influence of various parts of the SKG on the text style transfer task.
 
+To get access to the created style knowledge graphs, feel free to contact the authors via email 
+```martina.toshevska@finki.ukim.mk```.
+
 A visual representation of the proposed approach is shown in the following figure:
 ![](images/Style_knowledge_graph.png)
 
