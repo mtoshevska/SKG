@@ -1,0 +1,11 @@
+Sentence	Style
+some stinks cannot be unstunk .	toxic
+Some things cannot be undone.   neutral
+in response to your last paragraph rubbish .	toxic
+In response to your last paragraph. neutral
+justin and his rat pack have an agenda .	toxic
+Justin and his pack have an agenda. neutral
+he could be some drunk jerk with a gun .	toxic
+he could be drunk with a gun    neutral
+go ahead and let it die .	toxic
+go ahead and let it end.    neutral
